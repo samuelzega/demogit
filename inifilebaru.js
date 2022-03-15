@@ -1,0 +1,1 @@
+const filebaru = 'ntah apalah'
