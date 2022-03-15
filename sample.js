@@ -1,0 +1,2 @@
+const newData = []
+const myObj = {}
